@@ -9,22 +9,24 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/naridevlope/naridevlope">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naridevlope&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/naridevlope?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naridevlope&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=github-finder-project&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=github-finder-project&theme=radical)](https://github.com/naridevlope/github-finder-project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=hot-skillets-webapp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=hot-skillets-webapp&theme=radical)](https://github.com/naridevlope/hot-skillets-webapp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=Meu-site&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=Meu-site&theme=radical)](https://github.com/naridevlope/Meu-site)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=Quiz-React-Project-&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=Quiz-React-Project-&theme=radical)](https://github.com/naridevlope/Quiz-React-Project-)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=DevUberTailwindcss&theme=radical)](https://github.com/naridevlope/DevUberTailwindcss)
 
 ##
 
