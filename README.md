@@ -6,6 +6,7 @@
 - 📫 Send me a message: maurolopes.dev@gmail.com
 - 😄 HE/HIS
 - ⚡ Enthusiast from IT and Music!
+- 🧠 English/Portuguese/Korean
 
 ##
 
