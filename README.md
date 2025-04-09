@@ -1,11 +1,11 @@
 ## Olá, eu sou Mauro Junior, ou Nari. Bem vindo(a) 👋
 
 
-- 🔭 Atualmente sou técnico de fibra óptica, e desenvolvedor front-end
-- 🌱 Estou aprendendo Typescript, ReactJS e NextJS
+- 🔭 Estudante de Análise e desenvolvimento de sistemas, com foco em Front-end.
+- 🌱 Learning C# and Typescript.
 - 📫 Entre em contato comigo: maurolopes.dev@gmail.com
 - 😄 Ele/Dele
-- ⚡ Apaixonado por tecnologias e amante de música!
+- ⚡ Apaixonado por tecnologia e música!
 
 ##
 
