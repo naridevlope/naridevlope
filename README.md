@@ -1,11 +1,22 @@
-## Olá, eu sou Mauro Junior, ou Nari. Bem vindo(a) 👋
+## Hi, I am Mauro Junior, or can call me Nari. Welcome! 👋
 
 
-- 🔭 Estudante de Análise e desenvolvimento de sistemas, com foco em Front-end.
+- 🔭 Data analysis and Systems development student, goal to Front-end.
 - 🌱 Learning C# and Typescript.
-- 📫 Entre em contato comigo: maurolopes.dev@gmail.com
-- 😄 Ele/Dele
-- ⚡ Apaixonado por tecnologia e música!
+- 📫 Send me a message: maurolopes.dev@gmail.com
+- 😄 HE/HIS
+- ⚡ Enthusiast from IT and Music!
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nari-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+</div>
 
 ##
 
@@ -28,18 +39,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=DevUberTailwindcss&theme=radical)](https://github.com/naridevlope/DevUberTailwindcss)
 
-##
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naridevlope&repo=CsharpCalc&theme=radical)](https://github.com/naridevlope/CsharpCalc)
 
 ##
+
 
 <div> 
   <a href = "mailto:maurolopes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
